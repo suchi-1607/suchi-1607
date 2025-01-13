@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hello! I am Suchismita, currently pursuing B.Tech(H) in CSE with AI/ML.
+<img src="https://img.shields.io/badge/Instagram-FF0069?logo=Instagram&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=ColorName&style=ShieldStyle" />
 <!--
 **suchi-1607/suchi-1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
